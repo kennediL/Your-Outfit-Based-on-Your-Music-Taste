@@ -10,7 +10,7 @@
 
 let result=document.querySelector(".result");
 let submitButton=document.querySelector(".submitButton");
-let fit1=document.querySelector(".fit1");
+let fit1=document.querySelector(".fit1"); 
 
 
 submitButton.onclick=function(){
