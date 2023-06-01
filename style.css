@@ -1,0 +1,32 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    background-color:  #FAE6FA;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+  border-radius: 10px;
+}
+.tyler{
+width:200px;
+}
+
+.weeknd{
+  width:200px;
+}
+
+.lamar{
+  width:200px;
+}
+
+.cole{
+  width:200px;
+  height: 200px;
+}
+
+.result {
+  padding-bottom: 200px;
+}
